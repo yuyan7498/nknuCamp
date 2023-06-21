@@ -4681,3 +4681,9 @@ input, select, textarea {
 		}
 
 	}
+
+
+.bigRed{
+	font-size: larger;
+	color: rgb(242, 104, 104);
+}
